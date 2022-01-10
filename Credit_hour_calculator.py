@@ -102,4 +102,3 @@ def main():
     except OSError:
         print(f"Error in reading the file '{filename}'. The program ends.")
 main()
-'''todo: finish if statements for the total creditminutes and the corresponding print statements. finish formatting correctly as well'''
